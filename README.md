@@ -14,6 +14,9 @@ This project is to create an application that allows users to generate random pa
 5. The user input should be validated and at least one character type should be selected when answering each prompt.
 6. A password will be displayed on the page when all prompt are answered.
 
+## Application URL
+
+https://lzh1990214.github.io/PasswordGenerator/
 
 ## Screenshot
 
