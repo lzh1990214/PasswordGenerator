@@ -19,18 +19,18 @@ This project is to create an application that allows users to generate random pa
 
 Main user interface:
 
-![Main page with a red 'generate password" button.](../PasswordGenerator/Assets/S-1.png)
+![Main page with a red 'generate password" button.](./Assets/S-1.png)
 
 Prompt window to enter password length:
 
-![Prompt window to enter password length.](../PasswordGenerator/Assets/S-2.png)
+![Prompt window to enter password length.](./Assets/S-2.png)
 
 Prompt window to choose password criteria:
 
-![Prompt window to choose password criteria.](../PasswordGenerator/Assets/S-3.png)
+![Prompt window to choose password criteria.](./Assets/S-3.png)
 
 Display the randomized password based on the criteria selected:
 
-![Display the randomized password based on the criteria selected.](../PasswordGenerator/Assets/S-4.png)
+![Display the randomized password based on the criteria selected.](./Assets/S-4.png)
 
 
