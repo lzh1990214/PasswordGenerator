@@ -5,7 +5,7 @@
 This project is to create an application that allows users to generate random passwords based on four criteria. The users can choose to include "special characters", "numbers", "upper-case letters", and "lower-case letters" in the randomized passwords. This application will run in the browser with dynamically updated HTML and CSS powered by JavaScript code. The user interface is responsive to multiple screen sizes.
 
 
-## STRATEGIES
+## Strategies
 
 1. The user will go through a series of prompts for password criteria when clicking the button to generate a password.
 2. The user will select which criteria to include in the password.
@@ -19,7 +19,7 @@ This project is to create an application that allows users to generate random pa
 
 Main user interface:
 
-<img src="../PasswordGenerator/Assets/S-1.png" width="50%" height="auto">
+![Main page with a red 'generate password" button.](../PasswordGenerator/Assets/S-1.png)
 
 Prompt window to enter password length:
 
